@@ -1,0 +1,39 @@
+.portfolio-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  .project-title {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .project-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .project-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .project-link {
+    margin: 0 10px;
+  }
+  
+  .project-link a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .project-link a:hover {
+    color: #007bff;
+  }
+  
